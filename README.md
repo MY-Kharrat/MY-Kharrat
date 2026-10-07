@@ -19,10 +19,12 @@ I'm also **[certified Professional](https://www.datacamp.com/certificate/DS00242
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,react,nestjs,spring,kafka,cloudflare&perline=5)](https://skillicons.dev)
 
 <p>
-  <img 
-    src="https://raw.githubusercontent.com/commonhaus/artwork/main/projects/quarkus/icon/quarkus_icon_default.svg" 
-    width="auto" height="48" 
-    alt="Quarkus">
+  <a href="https://quarkus.io/">
+    <img 
+      src="https://raw.githubusercontent.com/commonhaus/artwork/main/projects/quarkus/icon/quarkus_icon_default.svg" 
+      width="auto" height="48" 
+      alt="Quarkus">
+  </a>
 </p>
 
 ### Deployment & Cloud
