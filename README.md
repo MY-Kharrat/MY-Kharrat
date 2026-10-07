@@ -6,7 +6,7 @@ I'm a final-year software engineering student with knowledge in **android** & **
 I'm also **[certified Professional](https://www.datacamp.com/certificate/DS0024261354777)**[ Data Scientist](https://www.datacamp.com/certificate/DS0024261354777)  by datacamp on April 2025
 
 ## CV
-[MOHAMED YASSINE KHARRAT_INT_CV_2026.pdf](https://github.com/user-attachments/files/31122133/MOHAMED.YASSINE.KHARRAT_INT_CV_2026.pdf)
+[MOHAMED YASSINE KHARRAT_INT_CV_2026.pdf](https://github.com/user-attachments/files/33142950/MOHAMED.YASSINE.KHARRAT_INT_CV_2026.pdf)
 
 ## Skills
 
