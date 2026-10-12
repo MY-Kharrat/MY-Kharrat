@@ -1,5 +1,5 @@
 ## Hi I'm Mohamed Yassine Kharrat
-
+`Software Engineer | Linux | Backend Developer | Android developer`
 > Through puzzles and games, I found my passion in **problem-solving**: the **backbone** skill in IT
 
 I'm a final-year software engineering student with knowledge in **android** & **full-stack web development**.
